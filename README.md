@@ -1,2 +1,8 @@
 # juice
 Juice tea testnet
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x736Fdfd33a697AB96c5462CAfbAAe4d98B924D97'
+quorum: 1
