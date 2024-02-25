@@ -1,0 +1,2 @@
+# juice
+Juice tea testnet
